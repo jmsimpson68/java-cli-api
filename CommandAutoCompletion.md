@@ -1,0 +1,1 @@
+When running the application in a standard terminal (i.e., not an Eclipse console), the user can press the tab key to autocomplete command names. In the case of ambiguous command names, it will be autocompleted up to the point of ambiguity and the potential candidate names will be printed.
